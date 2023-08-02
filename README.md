@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah22uet&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah22uet" /> </p>
 
-- 🌱 I’m currently learning **Django,Devops**
+- 🌱 I’m currently learning **Artificial Intelligence,Machine Learning,Database**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdullah22uet](https://github.com/Abdullah22uet)
 
