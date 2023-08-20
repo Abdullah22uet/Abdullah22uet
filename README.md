@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="100%" height="auto" src="https://images.unsplash.com/photo-1516101922849-2bf0be616449?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHB5dGhvbiUyMHByb2dyYW1taW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60">
+<img align="right" alt="coding" width="70%" height="auto" src="https://images.unsplash.com/photo-1516101922849-2bf0be616449?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHB5dGhvbiUyMHByb2dyYW1taW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60">
 <h1 align="center">Hi 👋, I'm Abdullah Khan Kakar</h1>
 <h3 align="center">I am Python Developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
